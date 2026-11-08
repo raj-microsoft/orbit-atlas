@@ -1,0 +1,19 @@
+{
+  "name": "orbit-atlas",
+  "version": "1.0.0",
+  "description": "Eight planets, nine locally rendered HyperFrames motion posters, NASA-sourced astronomy",
+  "main": "index.js",
+  "scripts": {
+    "build": "node build.mjs",
+    "test": "node verify.mjs"
+  },
+  "keywords": [],
+  "author": "Raj Balakrishnan",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "gsap": "^3.15.1",
+    "hyperframes": "^0.9.25",
+    "puppeteer-core": "^25.16.0"
+  }
+}
