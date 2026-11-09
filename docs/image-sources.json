@@ -1,0 +1,146 @@
+{
+  "mercury": {
+    "id": "PIA15162",
+    "mission": "MESSENGER / MDIS",
+    "credit": "NASA/Johns Hopkins University Applied Physics Laboratory/Carnegie Institution of Washington",
+    "url": "https://science.nasa.gov/photojournal/mercury-globe-0n-180e/",
+    "treatment": "Monochrome global photographic mosaic, orthographic projection.",
+    "label": "Monochrome mosaic",
+    "rights": "NASA mission imagery; educational/public-information reuse explicitly permitted by MESSENGER image-use policy, with credit and no endorsement.",
+    "policy": "https://messenger.jhuapl.edu/Explore/Usage-Statement.html",
+    "download": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia15/pia15162/PIA15162.jpg?w=1600&fit=clip",
+    "crop": [
+      0.04,
+      0.04,
+      0.96,
+      0.96
+    ],
+    "checked": "2026-11-09"
+  },
+  "venus": {
+    "id": "PIA00072",
+    "mission": "Galileo / SSI · 14 February 1990",
+    "credit": "NASA/JPL",
+    "url": "https://science.nasa.gov/photojournal/venus-cloud-patterns-colorized-and-filtered/",
+    "treatment": "Violet-filter photograph, spatially filtered and colourized blue by the mission to reveal clouds; not natural colour.",
+    "label": "Colourized violet-filter image",
+    "rights": "NASA/JPL mission image; no third-party copyright restriction in caption; reusable under JPL image-use policy.",
+    "policy": "https://www.jpl.nasa.gov/jpl-image-use-policy/",
+    "download": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia00/pia00072/PIA00072.jpg?w=1600&fit=clip",
+    "crop": [
+      0.18,
+      0.16,
+      0.85,
+      0.83
+    ],
+    "checked": "2026-11-09"
+  },
+  "earth": {
+    "id": "PIA18033",
+    "mission": "Suomi NPP / VIIRS · Blue Marble, January 2012",
+    "credit": "NASA",
+    "url": "https://science.nasa.gov/photojournal/earth/",
+    "treatment": "Blue Marble photographic montage: data from four satellite orbits projected onto a globe, not a single exposure.",
+    "label": "Blue Marble composite",
+    "rights": "NASA image; no third-party copyright restriction in caption; NASA educational/informational reuse permitted.",
+    "policy": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
+    "download": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia18/pia18033/PIA18033.jpg?w=1600&fit=clip",
+    "crop": [
+      0.06,
+      0.06,
+      0.94,
+      0.94
+    ],
+    "checked": "2026-11-09"
+  },
+  "mars": {
+    "id": "PIA00407",
+    "mission": "Viking Orbiter 1",
+    "credit": "NASA/JPL/USGS",
+    "url": "https://science.nasa.gov/photojournal/global-color-views-of-mars/",
+    "treatment": "Enhanced colour photographic mosaic. Red/violet data with a synthesized green channel; darker regions are stretched darker and less red than their natural appearance.",
+    "label": "Enhanced colour mosaic",
+    "rights": "NASA/JPL/USGS mission image; no third-party copyright restriction in caption; reusable under JPL image-use policy.",
+    "policy": "https://www.jpl.nasa.gov/jpl-image-use-policy/",
+    "download": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia00/pia00407/PIA00407.jpg?w=1600&fit=clip",
+    "crop": [
+      0,
+      0,
+      1,
+      1
+    ],
+    "checked": "2026-11-09"
+  },
+  "jupiter": {
+    "id": "PIA02873",
+    "mission": "Cassini / ISS · 7 December 2000",
+    "credit": "NASA/JPL/University of Arizona",
+    "url": "https://science.nasa.gov/photojournal/pj-high-resolution-globe-of-jupiter/",
+    "treatment": "True-colour photographic composite: four Cassini images mapped onto a globe by the mission, not a single exposure. Europa casts the small dark shadow.",
+    "label": "True-colour mapped composite",
+    "rights": "NASA/JPL Cassini imaging-team release; no separate third-party copyright restriction in caption; reusable under JPL image-use policy with the full mission credit. Not an ESA image.",
+    "policy": "https://www.jpl.nasa.gov/jpl-image-use-policy/",
+    "download": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia02/pia02873/PIA02873.jpg?w=1600&fit=clip",
+    "crop": [
+      0.235,
+      0.035,
+      0.785,
+      0.99
+    ],
+    "checked": "2026-11-09"
+  },
+  "saturn": {
+    "id": "PIA06077",
+    "mission": "Cassini / ISS · 7 May 2004",
+    "credit": "NASA/JPL/Space Science Institute",
+    "url": "https://science.nasa.gov/photojournal/ringworld-waiting/",
+    "treatment": "Natural-colour photographic mosaic. Circular crop shows the globe and inner rings; surrounding drawn rings are schematic. The source brightened moons for visibility; those moons are outside this crop.",
+    "label": "Natural-colour composite",
+    "rights": "NASA/JPL Cassini imaging-team release; no separate third-party copyright restriction in caption; reusable under JPL image-use policy with the full mission credit. Not an ESA image.",
+    "policy": "https://www.jpl.nasa.gov/jpl-image-use-policy/",
+    "download": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia06/pia06077/PIA06077.jpg?w=1600&fit=clip",
+    "crop": [
+      0.29,
+      0.25,
+      0.69,
+      0.79
+    ],
+    "checked": "2026-11-09"
+  },
+  "uranus": {
+    "id": "PIA00032",
+    "mission": "Voyager 2 / NAC · 17 January 1986",
+    "credit": "NASA/JPL",
+    "url": "https://science.nasa.gov/photojournal/uranus-in-true-and-false-color/",
+    "treatment": "Only the LEFT, true-colour panel is used. Blue/green/orange-filter composite; the false-colour right panel is excluded. Drawn rings are schematic.",
+    "label": "True-colour panel",
+    "rights": "NASA/JPL mission image; no third-party copyright restriction in caption; reusable under JPL image-use policy.",
+    "policy": "https://www.jpl.nasa.gov/jpl-image-use-policy/",
+    "download": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia00/pia00032/PIA00032.jpg?w=1600&fit=clip",
+    "crop": [
+      0.045,
+      0.1,
+      0.485,
+      0.98
+    ],
+    "checked": "2026-11-09"
+  },
+  "neptune": {
+    "id": "PIA02210",
+    "mission": "Voyager 2 / NAC · 14 August 1989",
+    "credit": "NASA/JPL",
+    "url": "https://science.nasa.gov/photojournal/neptune-3/",
+    "treatment": "Enhanced colour (contrast-enhanced orange/green/violet-filter composite), not a natural-colour reference.",
+    "label": "Enhanced colour composite",
+    "rights": "NASA/JPL mission image; no third-party copyright restriction in caption; reusable under JPL image-use policy.",
+    "policy": "https://www.jpl.nasa.gov/jpl-image-use-policy/",
+    "download": "https://assets.science.nasa.gov/dynamicimage/assets/science/psd/photojournal/pia/pia02/pia02210/PIA02210.jpg?w=1600&fit=clip",
+    "crop": [
+      0.27,
+      0.29,
+      0.71,
+      0.73
+    ],
+    "checked": "2026-11-09"
+  }
+}

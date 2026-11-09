@@ -7,3 +7,4 @@ verification/
 **/.debug/
 **/renders/
 **/gsap.min.js
+source-images/
